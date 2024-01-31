@@ -2,7 +2,7 @@
 
 # Installing UERANSIM - a UE/RAN Simulator
 
-In this demo we will practice:
+In this demo we will practice the following:
 
 - Installing UERANSIM
 - Configuring free5GC and UERANSIM
